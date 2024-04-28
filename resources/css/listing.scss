@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+
+.main-listing-section{
+    background-color: white;
+    color: rgb(17 24 39);
+    border-radius: 2px;
+    border: 1px solid #e5e7eb;
+    min-height: 400px;
+
+    .sidebar{
+        border-right: 1px solid #e5e7eb;
+    }
+}
